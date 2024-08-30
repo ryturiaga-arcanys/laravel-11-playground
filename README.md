@@ -1,6 +1,6 @@
 ## About Laravel 11 Playground
 
-Laravel 11 Playground is asimple Job Board platform built using the latest version of the framework (at that time).
+Laravel 11 Playground is a simple Job Board platform built using the latest version of the framework (at that time).
 
 This is based on Jeffrey Way's [30 Days to Learn Laravel](https://laracasts.com/series/30-days-to-learn-laravel-11) series on Laracasts
 
